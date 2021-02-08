@@ -1,5 +1,5 @@
 body {
-   background-color: #113944;
+    background-color: rgb(7, 24, 0);
    
 }
 .card{
@@ -12,7 +12,7 @@ body {
 
 
 .button{
-    background-color: #0a0625;
+    background-color:#596f00;
     color: white;
     font-weight: 700;
     border: none;
